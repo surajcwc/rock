@@ -1,5 +1,4 @@
 import "./banner.css";
-import { FaHome } from "react-icons/fa";   // FontAwesome
 
 function Banner() {
   return (
