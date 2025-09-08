@@ -1,10 +1,10 @@
 import "./Navbar.css";
-
+import Logo from "./assets/newrewr.png"
 function Navbar() {
   return (
     <nav>
         <div className="Left">
-          <img className="logo" src="/assets/newrewr.png" alt="" srcset="" /> 
+          <img className="logo" src={Logo} alt="" srcset="" /> 
         </div>
         <div className="links">
              <ul>

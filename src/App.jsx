@@ -7,15 +7,14 @@ import Banner from './banner.jsx'
 function App() {
 
   return (
-   
     <>
-     <div>
-    <Banner />
-    <Navbar />
-    <Hero />
-    <Section />
-    </div>
-      
+      <div>
+        <Banner />
+        <Navbar />
+        <Hero />
+        <Section />
+      </div>
+
     </>
   )
 }

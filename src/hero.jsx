@@ -1,9 +1,9 @@
 import "./hero.css";
-
+import Desktop from "../public/Desktop2.png"
 function Hero() {
   return (
  <main>
-            <img className="bg" src="../public/Desktop - 2.png" alt="" srcset="" />
+            <img className="bg" src={Desktop} alt="" srcset="" />
     <div className="hero-container">
         <div className="title-hero">
                  <img src="https://storage.googleapis.com/gweb-one-cdn/one/uploads/a84a7a51fdea9f2da8a989fd5a69570cbb4afa78.svg" alt="" srcset="" />
