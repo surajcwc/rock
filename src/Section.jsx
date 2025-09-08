@@ -1,4 +1,4 @@
-import "./Section.css";
+import "./section.css";
 
 function Section() {
   return (
