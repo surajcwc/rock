@@ -26,10 +26,6 @@ function Hero() {
             <p>Students also get access to NotebookLM, Whisk and 2 TB of storage at no charge. See if you're eligible for the student discount.</p  >
         </div>
     </div>
-
-    <div className="lastone">
-        <img src="../public/Desktop - 3.png" alt="" srcset="" />
-    </div>
  </main>
   );
 }

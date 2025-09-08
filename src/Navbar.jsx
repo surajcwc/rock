@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav>
         <div className="Left">
-          <img className="logo" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_PrimaryLogo_FullColor_1.original.png" alt="" srcset="" /> 
+          <img className="logo" src="/assets/newrewr.png" alt="" srcset="" /> 
         </div>
         <div className="links">
              <ul>
